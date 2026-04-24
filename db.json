@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "displayName": "Rohan Sharma",
+      "username": "rohan_sharma",
+      "verified": true,
+      "text": "Honestly, 90% of debugging is just figuring out which assumption you made was completely wrong. 😅 #CodingIndia",
+      "avatar": "/default_avatar.png",
+      "image": "",
+      "timestamp": "2h",
+      "likes": 342,
+      "retweets": 45,
+      "likedByMe": false,
+      "retweetedByMe": false,
+      "vibe": "Rant"
+    },
+    {
+      "id": 2,
+      "displayName": "Priya Gupta",
+      "username": "priya_art",
+      "verified": false,
+      "text": "Just finished my latest digital painting of the Himalayas! It took roughly 30 hours but seeing the final result makes it all worth it. 🎨✨",
+      "avatar": "/default_avatar.png",
+      "image": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=800&auto=format&fit=crop&q=60",
+      "timestamp": "5h",
+      "likes": 1205,
+      "retweets": 180,
+      "likedByMe": true,
+      "retweetedByMe": false,
+      "vibe": "Hyped"
+    },
+    {
+      "id": 3,
+      "displayName": "Amit Patel",
+      "username": "amit_reads",
+      "verified": true,
+      "text": "Has anyone else noticed that masala chai tastes infinitely better when you're procrastinating a major deadline?",
+      "avatar": "/default_avatar.png",
+      "image": "",
+      "timestamp": "8h",
+      "likes": 8900,
+      "retweets": 2100,
+      "likedByMe": false,
+      "retweetedByMe": true,
+      "vibe": "Chill"
+    }
+  ],
+  "user": {
+    "displayName": "Arjav Jain",
+    "username": "arjavjain",
+    "verified": false,
+    "avatar": "/default_avatar.png"
+  }
+}
